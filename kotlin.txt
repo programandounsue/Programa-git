@@ -1,0 +1,7 @@
+git add kotlin.txt
+git commit -m "Añadido datos."
+>git push github master
+> cat > kotlin.txt
+git add .
+> git commit -m
+> git push origin master.
