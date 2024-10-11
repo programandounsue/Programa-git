@@ -1,4 +1,1 @@
-Nombres: arley de jesustores 
-Correo:my_proyecto@hotmail.com
-git commit -m "Presentacion repositorio sena"
-git push github main
+otras Cosas 
